@@ -1,6 +1,8 @@
 # Foundation: An Economic Simulation Framework
 
-This repo contains an implementation of Foundation, a framework for flexible, modular, and composable environments that **model socio-economic behaviors and dynamics in a society with both agents and governments**.
+This MIT-backed PhD research by Rustica explores the intersection of artificial intelligence and economic modeling. By leveraging advanced AI-driven simulations, the study examines market behaviors, resource allocation, and decision-making processes in artificial economies. The experiment utilizes machine learning algorithms to analyze real-time economic interactions, offering insights into price formation, supply-demand fluctuations, and emergent market trends.
+
+This pioneering research aims to redefine economic forecasting by integrating AI with traditional economic theories, providing a robust framework for policy simulations and financial modeling. The study not only enhances our understanding of digital economies but also lays the groundwork for AI-assisted economic decision-making in real-world applications.
 
 Foundation provides a [Gym](https://gym.openai.com/)-style API:
 
