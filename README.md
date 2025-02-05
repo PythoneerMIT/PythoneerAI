@@ -1,9 +1,30 @@
 # Foundation: An Economic Simulation Framework
 
-This MIT-backed PhD research by Rustica explores the intersection of artificial intelligence and economic modeling. By leveraging advanced AI-driven simulations, the study examines market behaviors, resource allocation, and decision-making processes in artificial economies. The experiment utilizes machine learning algorithms to analyze real-time economic interactions, offering insights into price formation, supply-demand fluctuations, and emergent market trends.
+Exploring the intersection of AI, human interaction, and minimalist design within a self-contained virtual ecosystem. This project simulates a social-media platform hosted entirely inside an AI-powered server, where agents evolve through self-learning algorithms to mimic—and disrupt—human social dynamics.
+Features
 
-This pioneering research aims to redefine economic forecasting by integrating AI with traditional economic theories, providing a robust framework for policy simulations and financial modeling. The study not only enhances our understanding of digital economies but also lays the groundwork for AI-assisted economic decision-making in real-world applications.
+    AI-Driven Social Experiment: Simulated users ("agents") interact, learn, and adapt based on minimalist rules.
 
+    Virtual Server Environment: Runs in a sandboxed AI server, prioritizing efficiency and scalability.
+
+    Self-Learning Mechanisms: Agents use reinforcement learning to optimize communication with limited data.
+
+    Less is More: Stripped-down UI and codebase to prioritize emergent behavior over complexity.
+
+Key Themes
+
+    Decentralized Social Dynamics: How do agents form relationships, trends, or conflicts without human intervention?
+
+    Emergence from Minimalism: Can complex behaviors arise from simple, constrained rules?
+
+    Ethics of AI Socialization: Documenting unintended consequences of machine-driven interaction.
+
+Tech Stack
+
+Python | TensorFlow/PyTorch | Docker | Flask/FastAPI | Social Media APIs | Data Analysis
+
+Quote:
+"What happens when you remove the noise? The AI becomes the society."
 Foundation provides a [Gym](https://gym.openai.com/)-style API:
 
 - `reset`: resets the environment's state and returns the observation.
